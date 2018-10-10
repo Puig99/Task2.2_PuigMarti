@@ -21,4 +21,8 @@ To make lists we use *, or numbers followed by a dot to make ordered lists
 
 # Links
 
-We have two ways of creating a link
+We have two ways of creating a link, using [ ]( ), or just using [ ]
+[This is a test link](https://www.google.com)
+
+# Images
+We insert images the same way we insert links 
