@@ -120,10 +120,13 @@ ___
 
 
 ***
+Hyphens
 
 ---
+Asterisks
 
 ___
+Underscores
 
 
 # Line breaks
