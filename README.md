@@ -131,3 +131,16 @@ Underscores
 
 # Line breaks
 
+A line break works like a intro, makes a empty line in the document its done with ``--``
+--
+We can see 
+--
+a line break 
+
+# Youtube videos
+
+To add a youtube video you need to do it the same way we insert a image, ``![alt text] (video link)``
+
+[![Marcianito cumbia](http://img.youtube.com/vi/OWodAv1KHaM/0.jpg "Marciano cumbion")](http://www.youtube.com/watch?v=OWodAv1KHaM)
+
+The miniature won't be shown on screen, since on markdown documents we can use video. But the link will take you to Youtube, to 
