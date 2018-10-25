@@ -143,4 +143,4 @@ To add a youtube video you need to do it the same way we insert a image, ``![alt
 
 [![Marcianito cumbia](http://img.youtube.com/vi/OWodAv1KHaM/0.jpg "Marciano cumbion")](http://www.youtube.com/watch?v=OWodAv1KHaM)
 
-The miniature won't be shown on screen, since on markdown documents we can use video. But the link will take you to Youtube, to 
+The miniature will show as an image, you will need to click on it to acces the video web page.
